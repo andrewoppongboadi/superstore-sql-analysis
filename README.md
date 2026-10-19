@@ -1,4 +1,5 @@
 # Superstore Sales SQL Exploratory Analysis (Learning Project)
+My first SQL portfolio project, created to practise data validation, joins, aggregation, and exploratory sales analysis using MySQL.
 
 ## Project Overview
 
