@@ -1,4 +1,4 @@
-# Superstore Sales SQL Exploratory Analysis
+# Superstore Sales SQL Exploratory Analysis (Learning Project)
 
 ## Project Overview
 
